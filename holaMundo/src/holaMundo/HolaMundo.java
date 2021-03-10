@@ -11,7 +11,7 @@ public class HolaMundo {
 		System.out.println("4 cambio desde eclipse");
 		System.out.println("2 combio desde consola");
 		System.out.println("3 cambio desde consola");
-
+		System.out.pritnln("4 cambio desde consola");
 	}
 
 }
